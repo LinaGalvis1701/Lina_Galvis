@@ -123,12 +123,15 @@
 	}
 
 	.nav li a{
-		background: #004669;
-   		position: absolute;
-   	 	top: 132px;
-   		width: 100%;
-   	 	z-index: 5000;
-		
+		background-color: #F47920;
+		color: white;
+		text-decoration: none;
+		padding: 9px 82px;
+		display: block;
+		margin-bottom: 1px;
+		margin-right: 1px;
+		text-align: left;
+	
 		
 	}
 
