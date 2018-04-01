@@ -149,9 +149,9 @@
 		display: block;
 	}
 
-	<body style = "background-color: #FF0000;">
-
-	</body>
+	body{
+		background-color: #FF0000;
+}
 </style>
 /*
 Colores institucionales
