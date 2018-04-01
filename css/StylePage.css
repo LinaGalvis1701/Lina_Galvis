@@ -123,14 +123,13 @@
 	}
 
 	.nav li a{
-		background-color: #F47920;
-		color: white;
-		text-decoration: none;
-		padding: 9px 82px;
-		display: block;
-		margin-bottom: 1px;
-		margin-right: 1px;
-		text-align: left;
+		background: #004669;
+   		position: absolute;
+   	 	top: 132px;
+   		width: 100%;
+   	 	z-index: 5000;
+		
+		
 	}
 
 	.nav li a:hover{
@@ -157,7 +156,6 @@
 /*
 Colores institucionales
 azul - #005883
-Blanco - #FFFFFF
 Amarillo - #f0B429
 Naranja - #F47920
 Gris oscuro - #333333
