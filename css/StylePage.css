@@ -19,9 +19,9 @@
 		margin: auto;
 		width: 1097px;
 		height: 639px;
-		background-color: #F47920;
+		background-color: #ecf420;
 		border-style: solid;
-		border-color: #F47920;
+		border-color: #ecf420;
 		color: white;
 		border-radius: 5px;
 	}
@@ -123,7 +123,7 @@
 	}
 
 	.nav li a{
-		background-color: #F47920;
+		background-color: #ecf420;
 		color: white;
 		text-decoration: none;
 		padding: 9px 82px;
@@ -160,7 +160,7 @@
 Colores institucionales
 azul - #005883
 Amarillo - #f0B429
-Naranja - #F47920
+Amarillo oro - #ecf420
 Gris oscuro - #333333
 Gris claro - #B3B3B3
 Gris semioscuro - #808080
