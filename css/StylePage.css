@@ -8,7 +8,7 @@
 	}
 
 	div#General{
-		background-color: #005883; 
+		background-color: #005883;
 		height: 910px;
 		border-bottom-style: solid;
 		border-color: #f0B429;
@@ -123,13 +123,14 @@
 	}
 
 	.nav li a{
-		background: #004669;
-   		position: absolute;
-   	 	top: 132px;
-   		width: 100%;
-   	 	z-index: 5000;
-		
-		
+		background-color: #F47920;
+		color: white;
+		text-decoration: none;
+		padding: 9px 82px;
+		display: block;
+		margin-bottom: 1px;
+		margin-right: 1px;
+		text-align: left;
 	}
 
 	.nav li a:hover{
@@ -150,7 +151,7 @@
 	}
 
 	body{
-		background-color: #B3B3B3;
+		background-color: #F47920;
 	}
 </style>
 /*
