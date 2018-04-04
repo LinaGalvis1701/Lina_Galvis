@@ -11,7 +11,7 @@
 		background-color: #ffffff;
 		height: 910px;
 		border-bottom-style: solid;
-		border-color: #005883;
+		border-color: #F5AF01;
 		border-radius: 5px;
 	}
 
@@ -19,9 +19,9 @@
 		margin: auto;
 		width: 1097px;
 		height: 639px;
-		background-color: #005883;
+		background-color: #F5AF01;
 		border-style: solid;
-		border-color: #005883;
+		border-color: #F5AF01;
 		color: black;
 		border-radius: 5px;
 	}
@@ -61,7 +61,7 @@
 		background-color: #ffffff;
 		border-radius: 5px;
 		border-style: solid;
-		border-color: #005883;
+		border-color: #F5AF01;
 	}
 
 	div#Contenido{
@@ -134,7 +134,7 @@
 	}
 
 	.nav li a:hover{
-		background-color: #005883;
+		background-color: #F5AF01;
 	}
 
 	.nav > li{
@@ -151,7 +151,7 @@
 	}
 
 	body{
-		background-color: #005883;
+		background-color: #F5AF01;
 	}
 </style>
 /*
