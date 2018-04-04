@@ -8,10 +8,10 @@
 	}
 
 	div#General{
-		background-color: #005883; 
+		background-color: #ffffff;
 		height: 910px;
 		border-bottom-style: solid;
-		border-color: #f0B429;
+		border-color: #005883;
 		border-radius: 5px;
 	}
 
@@ -19,10 +19,10 @@
 		margin: auto;
 		width: 1097px;
 		height: 639px;
-		background-color: #ecf420;
+		background-color: #005883;
 		border-style: solid;
-		border-color: #ecf420;
-		color: white;
+		border-color: #005883;
+		color: black;
 		border-radius: 5px;
 	}
 
@@ -39,7 +39,7 @@
 
 	div#Footer{
 		margin-top: 15px;
-		color: white;
+		color: black;
 		margin-left: 15px;
 		font-family: Franklin Gothic Book, Franklin Gothic Italic, Arial;
 		font-size: 10pt;
@@ -58,10 +58,10 @@
 		float: left;
 		width: 1087px;
 		height: 45px;
-		background-color: #005883;
+		background-color: #ffffff;
 		border-radius: 5px;
 		border-style: solid;
-		border-color: #f0B429;
+		border-color: #005883;
 	}
 
 	div#Contenido{
@@ -72,7 +72,7 @@
 		float: left;
 		width: 673px;
 		height: 580px;
-		background-color: #005883;
+		background-color: #ffffff;
 		border-radius: 5px;
 	}
 	div#Contenido2{
@@ -82,7 +82,7 @@
 		float: left;
 		width: 412px;
 		height: 580px;
-		background-color: #005883;
+		background-color: #ffffff;
 		border-radius: 5px;
 	}
 
@@ -90,7 +90,7 @@
 		float: right;
 		margin-top: -125px;
 		margin-right: 5px;
-		color: white;
+		color: black;
 	}
 
 	div#Sellos{
@@ -106,7 +106,7 @@
 
 	#Titulo{
 		font-family: Angsana New, Angsana New Bold, Arial;
-		color: white;
+		color: black;
 		width: 1100px;
 		float: center;
 		height: 130PX;
@@ -123,20 +123,18 @@
 	}
 
 	.nav li a{
-		background-color: #ecf420;
-		color: blue;
+		background-color: #F47920;
+		color: black
 		text-decoration: none;
 		padding: 9px 82px;
 		display: block;
 		margin-bottom: 1px;
 		margin-right: 1px;
 		text-align: left;
-		
-		
 	}
 
 	.nav li a:hover{
-		background-color: #f0B429;
+		background-color: #005883;
 	}
 
 	.nav > li{
@@ -153,14 +151,15 @@
 	}
 
 	body{
-		background-color: #333333;
-}
+		background-color: #005883;
+	}
 </style>
 /*
 Colores institucionales
 azul - #005883
 Amarillo - #f0B429
-Amarillo oro - #ecf420
+Naranja - #F47920
+Blanco - #ffffff
 Gris oscuro - #333333
 Gris claro - #B3B3B3
 Gris semioscuro - #808080
