@@ -8,26 +8,26 @@
 	}
 
 	div#General{
-		background-color: #005883;
-		height: 890px;
+		background-color: #ffffff; /* Blanco externo*/
+		height: 910px;
 		border-bottom-style: solid;
-		border-color: #f0B429;
+		border-color: #070707; /*Prueba color*/
 		border-radius: 5px;
 	}
 
 	div#Main{
 		margin: auto;
 		width: 1097px;
-		height: 624px;
-		background-color: #F47920;
+		height: 639px;
+		background-color: #F5AF01;
 		border-style: solid;
-		border-color: #F47920;
-		color: white;
+		border-color: #F5AF01;
+		color: black;
 		border-radius: 5px;
 	}
 
 	div#TextoTitulo{
-		margin-top: -42px;
+		margin-top: -36px;
 	}
 
 	div#Introduccion{
@@ -65,10 +65,10 @@
 		float: left;
 		width: 1087px;
 		height: 45px;
-		background-color: #005883;
+		background-color: #ffffff;
 		border-radius: 5px;
 		border-style: solid;
-		border-color: #f0B429;
+		border-color: #F5AF01;
 	}
 
 	div#Contenido{
@@ -79,7 +79,7 @@
 		float: left;
 		width: 1090px;
 		height: 490px;
-		background-color: #005883;
+		background-color: #ffffff;
 		border-radius: 5px;
 	}
 
@@ -90,7 +90,7 @@
 		float: left;
 		width: 1092px;
 		height: 70px;
-		background-color: #005883;
+		background-color: #ffffff;
 		border-radius: 5px;
 	}
 
@@ -98,7 +98,7 @@
 		float: right;
 		margin-top: -125px;
 		margin-right: 5px;
-		color: white;
+		color: black;
 	}
 
 	div#Sellos{
@@ -114,7 +114,7 @@
 
 	div#Titulo{
 		font-family: Angsana New, Angsana New Bold, Arial;
-		color: white;
+		color: black;
 		width: 1100px;
 		float: center;
 		height: 130PX;
@@ -142,7 +142,7 @@
 	}
 
 	.nav li a:hover{
-		background-color: #f0B429;
+		background-color: #bab6b4; /*Color de resalto en las cajas*/
 	}
 
 	.nav > li{
@@ -159,7 +159,7 @@
 	}
 
 	body{
-		background-color: #F47920;
+		background-color: #005883; /*Color Azul fondo*/
 	}
 </style>
 /*
