@@ -107,7 +107,8 @@
 	#Titulo{
 		font-family: Angsana New, Angsana New Bold, Arial;
 		color: black;
-		width: 1100px;
+		margin-top: 40px;
+		width: 1200px;
 		float: center;
 		height: 130PX;
 	}
